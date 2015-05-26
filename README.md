@@ -64,3 +64,9 @@ The Pascal’s Triangle is one of the most well known mathematical object.
 What happens if we calculate it in modulo 2? I tried a visualization of it.
 
 https://jsfiddle.net/hirobo/3ebBY/
+
+You will find a fractal structure called [Sierpinski Triangle or Sierpinski Gasket](http://en.wikipedia.org/wiki/Sierpinski_triangle).
+
+If someone interested in the recursive construction of a Sierpinski triangle, have a look at Jakob’s site:
+
+http://www.jakob.at/html5/sierpinski.html
